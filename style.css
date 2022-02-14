@@ -17,7 +17,7 @@ h2 {
     color: lightblue;
     font-size: 20px;
     font-weight: lighter;
-    font-weight: 500;
+    font-weight: 700;
 }
 a {
     font-family: 'Roboto', sans-serif;
@@ -65,7 +65,7 @@ a:hover {
     border-radius: 4px;
 }
 .btn-blue:hover {
-    background-color: lightcyan;
+    background-color: black;
     color: white;
 }
 .list-inline {
